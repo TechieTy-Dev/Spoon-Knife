@@ -20,3 +20,20 @@ p {
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
+
+h3, h4, h5{
+  font-family: Monaco, monospace;
+  color: whitesmoke;
+  margin: 0 auto;
+  width: 300px;
+}
+
+.bug{
+  font-family:'Courier New', Courier, monospace;
+  color: lightgray;
+  font-weight: 100;
+  font-size: 12px;
+  margin: 0 auto;
+  width: 200px;
+  margin-top: 1rem;
+}
