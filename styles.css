@@ -3,6 +3,10 @@
   padding:0px;
 }
 
+body{
+  background-color: #303030;
+}
+
 #octocat {
   display: block;
   width:384px;
@@ -11,6 +15,7 @@
 
 p {
   display: block;
+  color: whitesmoke;
   width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
